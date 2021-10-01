@@ -1,0 +1,28 @@
+body{
+    background-image:url(back.jpg);
+    background-repeat: no-repeat;
+    /*background-position:100% 10%;*/
+    background-position: center top;
+    /*background-size: cover;*/
+    /*background-attachment: fixed;*/
+}
+
+.blue{
+    color: rgba(50, 50, 146, 0.774);
+}
+
+.Foto-principal{
+    width: 180px;
+}
+
+#titulo{
+    color: rgb(145, 50, 50);
+}
+
+p{
+    color: #222222;
+}
+
+h3{
+    color: rgba(25, 167, 37, 0.863);
+}

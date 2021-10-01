@@ -1,0 +1,19 @@
+body{
+    background: gainsboro;
+}
+
+.blue{
+    color: blue;
+}
+
+.Foto-principal{
+    width: 180px;
+}
+
+#titulo{
+    color: red;
+}
+
+h3{
+    color: green;
+}

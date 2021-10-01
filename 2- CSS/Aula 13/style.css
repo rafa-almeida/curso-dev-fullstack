@@ -1,0 +1,132 @@
+ body{
+    background-image:url(back.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFFFFF; 
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+}
+
+.container{
+    width: 900px;
+    
+    margin: 0 auto;
+}
+
+.profile{
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+.social-links{
+    text-decoration: none;
+}
+
+.social-icons{
+    width: 25px; 
+}
+
+.linkedin{
+    margin: 0 0 0 15px;
+}
+
+.github{
+    margin: 0 15px 0 15px;
+}
+
+.instagram{
+    margin: 0 15px 0 0;
+}
+
+.gmail{
+    width: 28px;
+}
+
+.Foto-principal{
+    width: 200px;
+    border: 2px solid #FFFFFF;
+    border-radius: 50% 10% 30% 70%;
+    margin: 5px;
+    padding: 7px;
+    box-shadow: 10px 10px 30px white;
+}
+
+h1{
+    margin-top: -2px;
+    margin-bottom: 0;
+    letter-spacing: -1px;
+    color: #FFFFFF;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 40px;
+}
+
+h2{
+    margin-top: 0;
+    font-style: italic;
+    color: #FFFFFF;
+    font-weight: 100;
+    letter-spacing: -1px;
+}
+
+h4{
+    margin-bottom: 5px;        
+}
+
+h5{
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-weight: 100;
+    font-style: italic;
+}
+
+p{
+    line-height: 25px;
+    margin-top: 4px;
+}
+
+.gray{
+    color: #FFFFFF;
+}
+
+a{
+    color: rgb(167, 89, 89);
+}
+
+strong{
+    color: rgb(117, 216, 117);
+}
+
+i{
+    color: rgb(221, 152, 198);
+}
+
+em{
+    color: rgb(221, 152, 198);
+}
+
+h3{
+    color: rgba(25, 167, 37, 0.863);
+}
+
+li{
+    color: #FFFFFF;
+
+}
+
+.jobs-list{
+    list-style: none;
+    padding-left: 20px;
+}
+
+.footer{
+    margin-top: 50px;
+    margin-bottom: 0;
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+
+}
